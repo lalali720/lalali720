@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 I’m currently learning about Generative AI and coding in BMSP!
 <!--
 **lalali720/lalali720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
